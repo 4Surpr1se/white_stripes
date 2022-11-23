@@ -1,7 +1,8 @@
 # Test project
 ## Description
 ______
-**run docker-compose up или создать дб и просто накатить миграции**
+**run docker-compose up или создать дб и просто накатить миграции,
+так же есть image через docker hub: 4surpr1se/stripe_api**
 _____
 ## Important
 _____
